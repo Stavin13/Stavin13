@@ -16,9 +16,21 @@
 <h3>Pinned Projects</h3>
 <p align="left" >
 Security-Analysis:Twitter Security Analysis Project built with Python, focused on analyzing threats and trends.
+</p>
+<p>
 cve-scout:Python tool for vulnerability scouting and CVE tracking, helping streamline security research.
+  </p>
+  <p>
 portfolio:Modern, interactive portfolio website built with Next.js & TypeScript, featuring a retro ASCII terminal interface and dark theme support.
-Threat-lens:AI-powered macOS log intelligence tool for threat detection and analysis.
+</p>
+    <p>
+    Threat-lens:AI-powered macOS log intelligence tool for threat detection and analysis.
+      </p>
+      <p>
 Idea-Vault:Full-stack open-source idea-sharing platform built with TypeScript, supporting voting, categories, and community interaction.
+      </p>
+<p>
+
 miniature-invention:Microsoft Phi3 model trained for reasoning
+        
 </p>
