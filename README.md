@@ -1,11 +1,11 @@
-<h1 align="center">Hi 👋, I'm Stavin Fernandes</h1>
+<h1 align="center">Hi, I'm Stavin Fernandes</h1>
 <h3 align="center">Cybersecurity Engineer | AI + Security Enthusiast | Open Source Contributor</h3>
 
 - 🌱 I’m currently learning **Digital Forensics and Information Security**
 - I’m a cybersecurity professional passionate about red and purple teaming, AI integration, and building tools that make security smarter and more proactive. I love learning by breaking and building things, whether it’s experimenting with networks, analyzing threats, or creating open-source projects. Much of what I learn ends up here — from practical security experiments to AI-powered applications — sharing insights and tools with the community.
 
 - [https://stavinfernandesportfolio.vercel.app/](https://stavinfernandesportfolio.vercel.app/)
-- 
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
