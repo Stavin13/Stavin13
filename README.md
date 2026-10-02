@@ -37,22 +37,22 @@ Most of what I learn eventually ends up here as a project, experiment, contribut
 
 ### Featured Projects
 
-** Security-Analysis**  
+Security-Analysis  
 Twitter security analysis project built with Python, focused on threat detection, sentiment analysis, and security intelligence.
 
-** ThreatLens**  
+ThreatLens  
 AI-powered security log analysis platform for detecting and analyzing suspicious events, with macOS Console integration and real-time monitoring.
 
-** Konkani Vaani ASR**  
+Konkani Vaani ASR  
 Research and development around **Konkani ASR, NER, and translation**, focused on low-resource language technologies.
 
-** Portfolio**  
+Portfolio
 Interactive portfolio built with **Next.js and TypeScript**, featuring an ASCII terminal-inspired interface and dark theme.
 
-** GryptChat Web**  
+QryptChat Web  
 Quantum-safe end-to-end encrypted chat application exploring secure communication and post-quantum cryptography.
 
-** TuringOS**  
+TuringOS  
 Linux-based operating system exploring **AI-agent interaction with system-level workflows**.
 
 ---
